@@ -11,5 +11,5 @@
 はがき|postcard
 バス|bus
 ひこうき|airplane
-ばく|I (used by men)
-やすみ|holiday; day off; absence
+ぼく|I (used by men)
+やすみ|holiday; day off
