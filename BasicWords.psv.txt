@@ -1,4 +1,4 @@
-quiz.properties|name=Basic Words, Set 2~~q_lang=jp-JP~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40
+quiz.properties|name=Basic Words, Set 2~~q_lang=ja-JP~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40
 うみ|sea
 きって|postal stamps
 きっぷ|ticket
