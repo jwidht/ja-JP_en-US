@@ -1,4 +1,4 @@
-quiz.properties|name=Nouns, Set 2~~q_lang=jp-JP~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40
+quiz.properties|name=Japanese 121 Flash Cards, Set 2~~q_lang=jp-JP~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40
 え|picture
 いけ|pond
 おかし|candy
@@ -108,5 +108,5 @@ quiz.properties|name=Nouns, Set 2~~q_lang=jp-JP~~a_lang=en-US~~fontsize_q=40~~fo
 えび|shrimp
 へび|snake
 ぶた|pig
-しんばん|news paper
+しんばん|newspaper
 なべ|pots
