@@ -72,7 +72,7 @@ quiz.properties|name=Set 1~~q_lang=ja-JP~~a_lang=en-US~~fontsize_q=40~~fontsize_
 ねずみ|mouse
 くち|mouth
 からし|mustard
-しんばん|newspaper
+しんぶん|newspaper
 よる|night
 えんぴつ|pencil
 ひと|person
