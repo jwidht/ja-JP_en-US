@@ -1,4 +1,4 @@
-quiz.properties|name=Set 1, Set 2~~q_lang=ja-JP~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40
+quiz.properties|name=Set 1~~q_lang=ja-JP~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40
 ひる|afternoon
 ひこうき|airplane
 りんご|apple
